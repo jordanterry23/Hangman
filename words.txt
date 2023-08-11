@@ -1,0 +1,114 @@
+dog
+cat
+fish
+bird
+apple
+coconut
+mango
+cheese
+tree
+bat
+sun
+moon
+star
+push
+piano
+guitar
+bean
+green bean
+green
+red
+blue
+yellow
+purple
+orange
+black
+white
+please
+thank you
+baseball
+baseball bat
+punish
+reward
+tickle
+wrestle
+stroller
+stroll
+call
+caller
+cheat
+cheater
+cheating
+pepper
+ghost pepper
+ghost
+phantom
+spirit
+haunted
+haunted house
+house
+pencil
+pencil pusher
+office
+office worker
+pen
+ink
+ink pen
+hunt
+hunter
+zombie
+hound
+fox
+ox
+oxen
+sheep
+goat
+goats
+herd
+cow
+cattle
+bull
+steer
+car
+automobile
+automotive
+motorcycle
+motor
+leg
+arm
+arms
+legs
+brain
+skull
+nose
+eye
+eyes
+man of the hour
+man
+woman
+men
+women
+people
+person
+lock
+locked
+padlock
+looking for someone
+help
+assist
+assistance
+mean
+nice
+angry
+happy
+sad
+depressed
+rest
+resting
+home
+house
+resting at home
+sleeping
+laying in bed
+laying
+bed
